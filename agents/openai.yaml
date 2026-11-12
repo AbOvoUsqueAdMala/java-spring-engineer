@@ -1,0 +1,4 @@
+interface:
+  display_name: "Java / Spring Engineer"
+  short_description: "Java и Spring: разработка, ревью и надёжность"
+  default_prompt: "Используй $java-spring-engineer: изучи текущий проект, реализуй задачу и проверь изменённое поведение."
